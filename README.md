@@ -23,9 +23,8 @@ An intelligent AI assistant with document analysis, web search capabilities, and
 * Install dependencies
 pip install -r requirements.txt
 
-* Set up environment variables
-Create a .env file in the root directory:
-envGROQ_API_KEY=your_groq_api_key_here
+* Set up environment variables by creating a .env file in the root directory:
+GROQ_API_KEY=your_groq_api_key_here
 GHANA_NLP_KEY=your_ghana_nlp_key_here
 
 * Run the application
