@@ -29,3 +29,6 @@ GHANA_NLP_KEY=your_ghana_nlp_key_here
 
 * Run the application
 streamlit run web.py
+
+<img width="1361" height="639" alt="Screenshot from 2025-09-16 13-48-02" src="https://github.com/user-attachments/assets/63d8bbd6-632e-40f5-bca7-ce6d15f53d6b" />
+<img width="1356" height="638" alt="Screenshot from 2025-09-16 13-47-06" src="https://github.com/user-attachments/assets/1ed7ab70-015c-4b84-be21-b38b4a8e535b" />
