@@ -2,7 +2,6 @@
 An intelligent AI assistant with document analysis, web search capabilities, and support for Ghanaian languages (Ga and Twi). Built with Streamlit, LangChain, and LangGraph.
 
 # 🌟 Features
-
 * 💬 Smart Conversational AI: Powered by Groq's LLM with context-aware responses
 * 📄 Document RAG: Upload and query PDFs, Word documents, and text files
 * 🌐 Web Search Integration: Real-time information retrieval using DuckDuckGo
@@ -14,14 +13,12 @@ An intelligent AI assistant with document analysis, web search capabilities, and
 
 # 🚀 Quick Start
 ## Prerequisites
-*Python 3.8 or higher
-*Groq API key
-*Ghana NLP API key (for language translation)
+* Python 3.8 or higher
+* Groq API key
+* Ghana NLP API key (for language translation)
 
 ## Installation
 * Clone the repository
-git clone https://github.com/yourusername/ghanagpt.git
-cd ghanagpt
 
 * Install dependencies
 pip install -r requirements.txt
