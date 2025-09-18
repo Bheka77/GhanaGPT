@@ -1,4 +1,0 @@
-User: Helloo and how are you doing?
-Ai: Hey there! I’m doing great—thanks for asking. How about you? Anything interesting going on?
-User: eerrm not really just a two line summary of who Kwame Nkrumah is
-Ai: Kwame Nkrumah (1909–1972) was a Ghanaian statesman who led the country to independence from Britain and served as its first president, championing pan‑Africanism and socialist development. He remains a pivotal figure in African liberation and post‑colonial history.

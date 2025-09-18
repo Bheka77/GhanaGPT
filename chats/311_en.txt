@@ -1,6 +1,0 @@
-User: Hello, and how are you doing?
-Ai: Hello! I’m doing great, thank you for asking. How can I assist you today?
-User: write me a short three line summary of Charlie Kirk
-Ai: Charlie Kirk (1993‑2025) was a prominent American right‑wing activist, author, and media personality. He co‑founded and led Turning Point USA, a conservative organization targeting college students, and became a key figure in former President Donald Trump’s inner circle. Known for his outspoken stances on issues such as gun rights, opposition to gay marriage and abortion, and criticism of Islam, Kirk was fatally shot while speaking at Utah Valley University in September 2025.
-User: nice...
-Ai: Glad you liked it! If you’d like more details about Charlie Kirk, Turning Point USA, or anything else, just let me know.

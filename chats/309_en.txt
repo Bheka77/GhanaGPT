@@ -1,7 +1,0 @@
-User: Hello, and how are you doing?
-Ai: Hello! I’m doing great—thanks for asking. How can I help you today?
-User: write a three line summary of Dr. Kwame Nkrumah, 
-Ai: **Kwame Nkrumah (1909‑1972)**  
-- Ghana’s first President and a key pan‑Africanist, he led the country to independence from Britain in 1957 and championed socialist‑oriented development.  
-- A charismatic orator and intellectual, he envisioned a united Africa under a “United States of Africa,” inspiring liberation movements across the continent.  
-- His tenure ended in a 1966 coup, after which he spent his final years in exile, continuing to advocate for African unity until his death.

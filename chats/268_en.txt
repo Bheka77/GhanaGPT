@@ -1,4 +1,0 @@
-User: Hello
-Ai: Hello! How can I help you today?
-User: Tell me in a short summary (200 characters long) who Damson Idris is
-Ai: Damson Idris is a British‑Nigerian actor, born 1991, famed for starring as Franklin Saint in FX’s crime drama ‘Snowfall’ and roles in ‘The Night Of’ and ‘Farming’. He earned a BA from Central Drama..

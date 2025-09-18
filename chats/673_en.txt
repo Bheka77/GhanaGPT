@@ -1,4 +1,0 @@
-User: Hello, and how you doing?
-Ai: Hey there! I’m doing great—thanks for asking. How about you? Anything interesting on your mind today?
-User: Give me a three line summary of Ghana's current president
-Ai: I’m sorry, but the provided context does not contain any information about Ghana’s current president.
