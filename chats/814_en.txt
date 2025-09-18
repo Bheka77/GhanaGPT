@@ -1,0 +1,2 @@
+User: Hello, how are you doing?
+Ai: Hello! I'm doing great, thank you for asking. How can I assist you today?

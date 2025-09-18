@@ -1,0 +1,6 @@
+User: Hello
+Ai: Hello! How can I assist you today?
+User: You can help by telling me in two sentences something about Damson Idris and his latest film
+Ai: Damson Idris is a British‑Nigerian actor best known for starring as Franklin Saint in the FX crime drama Snowfall (2017‑2023). His most recent film appearance was in the 2021 Netflix sci‑fi action movie Outside the Wire, where he plays a supporting role alongside Anthony Mackie.
+User: Does he not have any 2025 movie
+Ai: As of the latest available information, Damson Idris does not have any confirmed 2025 film releases announced. He’s currently attached to a few upcoming projects, but none have been slated for a 2025 theatrical or streaming debut yet.

@@ -1,0 +1,6 @@
+User: Hello, how are you doing?
+Ai: Hello! I'm doing great, thanks for asking. How can I help you today?
+User: nothing much, but in three short points, tell me who Damson Idris is
+Ai: - Damson Idris (born 2 September 1991) is a British‑Nigerian actor, entrepreneur and film producer.  
+- He is best known for starring in John Singleton’s crime drama **Snowfall**, which aired on FX from 2017 until its finale in 2023 after six seasons.  
+- He has also taken co‑lead roles in Netflix productions (2021) and auditioned for the Black Mirror episode “Men Against Fire,” among other TV and film projects.

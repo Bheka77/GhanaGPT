@@ -1,0 +1,4 @@
+User: Hellooo
+Ai: Hello! 👋 How can I help you today?
+User: Tell me something brief about Damson Idris, something short
+Ai: Damson Idris (born 2 September 1991) is a British actor from Peckham, South East London.  He studied drama at Brunel University, earned a BA in Theatre, Film & Television, and rose to prominence with his breakout role as William “Bill” Bishop on the FX series *Snowfall*.  Idris is known for his dynamic performances and has over 20 acting credits by his early thirties.

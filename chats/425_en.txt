@@ -1,0 +1,10 @@
+User: Hello
+Ai: Hello! How can I help you today?
+User: Give me a three point summary of Damson Idris
+Ai: **Three‑point summary of Damson Idris (based on the provided excerpts)**  
+
+1. **Breakout TV role:** Idris gained major U.S. recognition starring as a drug‑kingpin in the series **“Snowfall” (2017)**, which marked his first high‑profile breakout in America.  
+
+2. **British origins & rising fame:** He is a **British actor** who is still “making a name for himself in the UK” while building a growing career in the United States.  
+
+3. **Expanding film work & media buzz:** Recent coverage mentions his involvement in a **Formula 1‑themed film** (directed by Joseph Koskinski, starring Brad Pitt and Idris) and speculation about future roles such as a possible appearance in the upcoming **“Black Panther”** installment.

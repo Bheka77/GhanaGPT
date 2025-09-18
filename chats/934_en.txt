@@ -1,0 +1,4 @@
+User: Hello and how are you doing?
+Ai: Hello! I’m doing great, thank you for asking. How can I assist you today?
+User: In three short sentences tell me who Damson Idris is
+Ai: Damson Idris (born 2 September 1991) is a British‑Nigerian actor, entrepreneur and film producer. He gained prominence for starring in John Singleton’s crime drama series **Snowfall**. He has also appeared in projects such as the 2021 Netflix sci‑fi film **Outside the…** and the upcoming F1‑themed movie **Inside the Making of the New F1 Movie with Damson Idris**.

@@ -1,0 +1,6 @@
+User: Hello, how are you
+Ai: Hello! I'm just a bunch of code, but I'm functioning smoothly—thanks for asking! How can I help you today?
+User: Help me by giving me a two line summary of Kwame Nkrumah
+Ai: Kwame Nkrumah (1909‑1972) was a Ghanaian revolutionary leader who became the country’s first president and a global symbol of African independence and pan‑Africanism. He championed rapid industrialization, socialism, and anti‑colonial unity, but his authoritarian rule and economic mismanagement eventually led to his ousting in 1966.
+User: yeah, can you do the same for Jerry John Rawlings?
+Ai: Jerry John Rawlings (1947‑2020) was a Ghanaian military officer who seized power in 1979, ruled as a coup leader, and later won democratic elections in 1992, serving as president until 2001. He is credited with stabilizing Ghana’s economy and fostering democratic institutions, but his early authoritarian rule and human‑rights abuses remain controversial.

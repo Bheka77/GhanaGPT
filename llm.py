@@ -375,15 +375,17 @@ class LLM:
                         print(f"Added web context: {len(web_results)} chars")
                 
                 if context_parts:
-                    enhanced_prompt = f"""Based on the following context, please answer the user's question.
-                    
-                        {chr(10).join(context_parts)}
+                    enhanced_prompt = f"""
+                            You are given the following context:  
+                            {chr(10).join(context_parts)}
 
-                        User Question: {query}
+                            User Question: {query}
 
-                        Please provide a comprehensive answer based on the provided context. 
-                        If the context doesn't contain relevant information, please state that clearly.
-                        Lastly, make sure your responses are brief and to the point."""
+                            Instructions:  
+                            - Use the provided context to answer the question if available.  
+                            - If no relevant context is provided, state that clearly but you may still give a general appropirate answer. 
+                            - Keep the response clear, concise, and under 900 characters.                    
+                            """
                     
                     messages = messages[:-1] + [HumanMessage(content=enhanced_prompt)]
                     print("Enhanced prompt with context")

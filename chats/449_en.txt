@@ -1,0 +1,8 @@
+User: Hello
+Ai: Hello! How can I assist you today?
+User: In two sentences, tell me about Damson Idris
+Ai: Damson Idris (born 2 September 1991 in Peckham, London) is a British‑Nigerian actor best known for his breakout role as Kevin “Keffe” in FX’s crime drama *Snowfall* (2017‑2023) and for starring in Netflix’s 2021 series *The Night Agent*. Emerging from a large Nigerian‑British family, he transitioned from West End stage work and a stint selling ice cream to become a prominent film producer and entrepreneur.
+User: In a single answer what is the title of his latest movie
+Ai: The Night Agent.
+User: I mean his 2025 movie
+Ai: Damson Idris’s 2025 film is titled **“Him.”**
